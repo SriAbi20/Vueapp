@@ -1,0 +1,16 @@
+<template>
+<div class="landing-page">
+    <div class="wrapper">
+         <div class="d-flex flex-column justify-content-center align-content-center text-center h-100">
+            <h5 class="display-4">
+                <i class="fa fa-shopping-cart"></i>
+                BigBasket
+            </h5>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ex doloremque veniam autem asperiores nostrum sed exercitationem. Similique consequuntur commodi voluptate ullam optio excepturi nesciunt molestiae repellat inventore minus. Rerum, libero?</p>
+         </div>
+    </div>
+</div>
+</template>
+<script>
+export default {}
+</script>
